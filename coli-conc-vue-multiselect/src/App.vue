@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div>
+      <!-- Just a test commit -->
       <!-- Configure Multiselect component -->
       <multiselect
         v-model="selected"
